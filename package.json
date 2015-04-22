@@ -1,0 +1,29 @@
+{
+  "name": "hello-jenkins",
+  "version": "1.0.0",
+  "description": "hello jenkins test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vmrathod/hello-jenkins.git"
+  },
+  "keywords": [
+    "jenkins"
+  ],
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vmrathod/hello-jenkins/issues"
+  },
+  "homepage": "https://github.com/vmrathod/hello-jenkins",
+  "dependencies": {
+    "express": "^4.12.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "supertest": "^0.15.0"
+  }
+}
